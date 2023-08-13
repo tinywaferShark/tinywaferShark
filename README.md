@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @tinywaferShark
-- :cn: I'm from China.
-- 👀 I’m interested in  Verilog/Computer Architecture/RISC-V/NeoVim
-- :office:  I’m currently learning Fewshotlearning/Constrastive learning
-- :wink: I’m looking to collaborate on VerilogDesign 
+
 
 
 <!---
